@@ -1,0 +1,10 @@
+C:\Users\ESC\Desktop\mint\mint\target\debug\deps\libed25519_zebra-a06f3ed9e2501701.rmeta: C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\lib.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\batch.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\error.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\signing_key.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\verification_key.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\../README.md
+
+C:\Users\ESC\Desktop\mint\mint\target\debug\deps\ed25519_zebra-a06f3ed9e2501701.d: C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\lib.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\batch.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\error.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\signing_key.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\verification_key.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\../README.md
+
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\lib.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\batch.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\error.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\signing_key.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\verification_key.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\../README.md:

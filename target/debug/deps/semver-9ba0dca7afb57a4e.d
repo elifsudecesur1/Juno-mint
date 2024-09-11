@@ -1,0 +1,12 @@
+C:\Users\ESC\Desktop\mint\mint\target\debug\deps\libsemver-9ba0dca7afb57a4e.rmeta: C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src/lib.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\backport.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\display.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\error.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\eval.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\identifier.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\impls.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\parse.rs
+
+C:\Users\ESC\Desktop\mint\mint\target\debug\deps\semver-9ba0dca7afb57a4e.d: C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src/lib.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\backport.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\display.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\error.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\eval.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\identifier.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\impls.rs C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\parse.rs
+
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src/lib.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\backport.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\display.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\error.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\eval.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\identifier.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\impls.rs:
+C:\Users\ESC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\parse.rs:
